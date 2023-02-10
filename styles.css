@@ -1,0 +1,49 @@
+/* Global */
+* {
+  margin: 1%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url(images/PPLogo\ TM.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* html { 
+  background: url(images/PPLogo\ TM.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+
+
+h1 {
+ font-family: 'Courier New', Courier, monospace;
+}
+
+#logo {
+  /* background-image: url(images/PPLogo\ TM.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: fit-content;
+  min-width: fit-content; */
+
+  /* background-image: url(images/PPLogo\ TM.jpeg);
+  height: 80%;
+  width: 100%;
+  background-repeat: no-repeat, no-repeat;
+  background-position: center; */
+  /* background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; */
+}
